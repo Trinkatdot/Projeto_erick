@@ -1,10 +1,13 @@
-# 🍽️ Le Président - Site Responsivo
+# 🍽️ Ama's blog - Materia Do Jacquin
 
 Bem-vindo ao repositório do **Le Président**, um projeto de site institucional fictício desenvolvido com foco em boas práticas de **HTML5** e **CSS3**, com layout responsivo, sem o uso de frameworks. Inspirado na elegância de um restaurante moderno, o projeto destaca a estrutura limpa, semântica e a estilização utilizando variáveis CSS.
 
 ## 📸 Preview
 
-![preview](./screenshot.png) <!-- Atualize o caminho conforme necessário -->
+<img src="./img/site1.png">
+<img src="./img/site2.png">
+<img src="./img/site3.png">
+<img src="./img/site4.png"> <!-- Atualize o caminho conforme necessário -->
 
 ## 🛠️ Tecnologias utilizadas
 
@@ -22,10 +25,7 @@ Bem-vindo ao repositório do **Le Président**, um projeto de site institucional
 │ └── lepresident.png
 └── README.md
 
-<img src="./img/site1.png">
-<img src="./img/site2.png">
-<img src="./img/site3.png">
-<img src="./img/site4.png">
+
 
 ## 🎨 Paleta de Cores
 
