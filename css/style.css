@@ -72,7 +72,7 @@ img {
 
 /* Menu */
 .menu-bg {
-    
+
     background-color: #023342;
 }
 
@@ -214,6 +214,22 @@ img {
     flex-wrap: wrap;
     align-items: flex-end;
 }
+
+.linha-programas {
+    max-width: 999px;
+    margin: 0 auto;
+    padding: 30px 30px;
+    border-top: 2px solid #023342;
+    padding: 20px 0;
+
+}
+
+.titulo-programas {
+    font-size: 3em;
+    text-align: start;
+}
+
+
 
 .preco-item {
     flex: 1 1 260px;

@@ -1,6 +1,6 @@
 # 🍽️ Ama's blog - Materia Do Jacquin
 
-Bem-vindo ao repositório do **Le Président**, um projeto de site institucional fictício desenvolvido com foco em boas práticas de **HTML5** e **CSS3**, com layout responsivo, sem o uso de frameworks. Inspirado na elegância de um restaurante moderno, o projeto destaca a estrutura limpa, semântica e a estilização utilizando variáveis CSS.
+Bem-vindo ao repositório do **Ama's blog**, um projeto de site institucional fictício desenvolvido com foco em boas práticas de **HTML5** e **CSS3**, com layout responsivo, sem o uso de frameworks. Inspirado na elegância de um restaurante moderno, o projeto destaca a estrutura limpa, semântica e a estilização utilizando variáveis CSS.
 
 ## 📸 Preview
 
@@ -73,7 +73,7 @@ Este projeto foi fundamental para praticar:
 Desenvolvido por Agatha Katherine, Mayara Emanuela e Alisson Silva.
 Técnico em Informática pelo SENAC Largo Treze.
 
-💼 LinkedIn https://www.linkedin.com/in/agatha-katherine-trindade-aureliano-b22420245/
+💼 LinkedIn https://www.linkedin.com/in/agatha-katherine-trindade-aureliano-b22420245/ 
 
 
 ✉️ Contato: amasblog@email.com
